@@ -110,7 +110,7 @@ if __name__ == "__main__":
 
     ####### PAGE CONFIG ###########################
     st.set_page_config(
-    page_title="udemy_project_screener",
+    page_title="Finance",
     page_icon="📈",
     initial_sidebar_state="expanded",
     )
